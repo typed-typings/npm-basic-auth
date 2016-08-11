@@ -1,0 +1,13 @@
+{
+  "name": "basic-auth",
+  "main": "index.d.ts",
+  "homepage": "https://github.com/types/npm-basic-auth",
+  "dependencies": {},
+  "version": "1.0.4",
+  "globalDependencies": {
+    "node": "registry:env/node#6.0.0+20160723033700"
+  },
+  "devDependencies": {
+    "express": "registry:npm/express#4.14.0+20160810205701"
+  }
+}
