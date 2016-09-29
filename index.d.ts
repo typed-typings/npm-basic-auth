@@ -13,4 +13,7 @@ declare class Credentials {
  */
 declare function auth(req: IncomingMessage): Credentials;
 
+/** Fake namespace to allow es6 style import */
+namespace auth {}
+
 export = auth;
