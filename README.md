@@ -1,4 +1,6 @@
 # Typed basic-auth
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/types/npm-basic-auth.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/types/npm-basic-auth.svg?branch=master)](https://travis-ci.org/types/npm-basic-auth)
 
 Typescript Typings for [basic-auth](https://npmjs.org/package/basic-auth).
